@@ -1,0 +1,6 @@
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\API.Interfaces\bin\Release\API.Interfaces.dll
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\API.Interfaces\bin\Release\API.Interfaces.pdb
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\API.Interfaces\obj\Release\API.Interfaces.csproj.CoreCompileInputs.cache
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\API.Interfaces\obj\Release\API.Interfaces.dll
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\API.Interfaces\obj\Release\API.Interfaces.pdb
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\API.Interfaces\obj\Release\API.Interfaces.csprojAssemblyReference.cache

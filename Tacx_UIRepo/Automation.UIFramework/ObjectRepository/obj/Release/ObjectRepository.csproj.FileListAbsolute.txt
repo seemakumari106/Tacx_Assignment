@@ -1,0 +1,16 @@
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\bin\Release\ObjectRepository.dll
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\bin\Release\ObjectRepository.pdb
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\bin\Release\Automation.UIFramework.dll
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\bin\Release\WebDriver.dll
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\bin\Release\Unity.Abstractions.dll
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\bin\Release\Unity.Container.dll
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\bin\Release\Protractor.dll
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\bin\Release\Automation.UIFramework.pdb
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\bin\Release\Unity.Abstractions.pdb
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\bin\Release\Unity.Container.pdb
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\bin\Release\Protractor.xml
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\obj\Release\ObjectRepository.csprojAssemblyReference.cache
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\obj\Release\ObjectRepository.csproj.CoreCompileInputs.cache
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\obj\Release\ObjectRepository.csproj.CopyComplete
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\obj\Release\ObjectRepository.dll
+C:\IAP_OLD\Tacx_UIRepo\Automation.UIFramework\ObjectRepository\obj\Release\ObjectRepository.pdb
