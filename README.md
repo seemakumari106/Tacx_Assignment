@@ -22,8 +22,6 @@ once you run that collection you can see the test report under summary of your r
 
 ![screenshot4](https://github.com/seemakumari106/Tacx_Assignment/blob/main/Tacx_BackendRepo/ScreenShots/4.png)
 
-![screenshot5](https://github.com/seemakumari106/Tacx_Assignment/blob/main/Tacx_BackendRepo/ScreenShots/5.png)
-
 To check the test validation written for it  : Under each  request there is tab called "Tests" where the validation are written 
-![screenshot6](https://github.com/seemakumari106/Tacx_Assignment/blob/main/Tacx_BackendRepo/ScreenShots/6.png)
+![screenshot5](https://github.com/seemakumari106/Tacx_Assignment/blob/main/Tacx_BackendRepo/ScreenShots/5.png)
 Validation performed : In Js under the collection.
